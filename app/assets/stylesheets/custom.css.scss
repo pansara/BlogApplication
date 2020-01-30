@@ -1,1 +1,23 @@
 @import 'bootstrap/dist/css/bootstrap';
+
+.navbar {
+    background-color: #FFe6FF!important;
+}
+
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+#logo:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
